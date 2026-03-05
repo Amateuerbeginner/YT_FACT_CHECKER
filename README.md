@@ -62,7 +62,7 @@ The overall analysis pipeline was designed as part of the project to process tra
 
 External APIs
 • YouTube Transcript API for transcript extraction
-• Language model APIs for transcript analysis
+• sonar API for transcript analysis
 
 ---
 
